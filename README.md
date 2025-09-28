@@ -4,7 +4,7 @@
 
 ### 🚀 Senior Customer Engineer & Systems Automation Specialist
 
-*16+ years of customer-facing technical expertise | SaaS Platform Optimization | Automation & Integration*
+*16+ years of customer-facing technical expertise | SaaS CX Optimization | Automation & Integration*
 
 </div>
 
@@ -117,8 +117,8 @@
 </p>
 
 <p align="center">
-  <i>💼 Open to collaboration opportunities and software development roles!</i><br>
-  <i>🌟 Transitioning from Customer Engineering to Full-Stack Development</i><br>
-  <i>📍 Charlotte, NC (Remote Available)</i>
+  <i>💼 Open to collaboration opportunities and CX related roles!</i><br>
+  <i>🌟 I am a Senior Customer Engineering who's familiar with Full-Stack Development and Scripting</i><br>
+  <i>📍 North Carolina (Remote)</i>
 </p>
 
