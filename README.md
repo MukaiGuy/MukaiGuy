@@ -35,7 +35,7 @@
 
 ### Enterprise Systems & Automation
 <p align="left">
-  <img src="https://assets.zdassets.com/theme_assets/2008340/036a09c5c2f2a8fd7a0e5ef3a41b5cb0b7e5b960.png" alt="Zendesk" width="50" height="40"/>
+  <img src="https://d1eipm3vz40hy0.cloudfront.net/images/logos/zendesk-favicon.svg" alt="Zendesk" width="50" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/609438?s=200&v=4" alt="PagerDuty" width="50" height="50"/>
   <img src="https://workato.com/favicon.ico" alt="Workato" width="50" height="50"/>
 </p>
