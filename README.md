@@ -36,7 +36,7 @@
 ### Enterprise Systems & Automation
 <p align="left">
   <img src="https://d1eipm3vz40hy0.cloudfront.net/images/logos/zendesk-favicon.svg" alt="Zendesk" width="50" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/609438?s=200&v=4" alt="PagerDuty" width="50" height="50"/>
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQF17AeecTI6KQ/company-logo_200_200/company-logo_200_200/0/1719855079399/pagerduty_logo?e=1761782400&v=beta&t=n3-uVuc9CCrX8cBaJNINsSUnU-PO7rJXFn87RgJ3dgY" alt="PagerDuty" width="50" height="50"/>
   <img src="https://workato.com/favicon.ico" alt="Workato" width="50" height="50"/>
 </p>
 
@@ -62,6 +62,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.prod.website-files.com/64e5d9235951ea488bbccad9/666585823d673a3e8fc1f148_CompTIA%20A%2B.png" alt="CompTIA A+" width="50" height="50"/>
 </p>
 
 ---
