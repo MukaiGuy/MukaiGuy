@@ -1,12 +1,10 @@
 <div align="center">
 
-#- 🌱 **Always Learning**: Exploring modern web technologies and best practices
+# Hi 👋, I'm Roger Mukai
 
-## �️ Technical Skills'm Roger Mukai
+### 🚀 Senior Customer Engineer & Systems Automation Specialist
 
-### 🚀 Python Developer & Creative Problem Solver
-
-*Passionate about building efficient solutions and continuously expanding my technical expertise*
+*16+ years of customer-facing technical expertise | SaaS Platform Optimization | Automation & Integration*
 
 </div>
 
@@ -17,48 +15,73 @@
 
 ---
 
-## 🎯 About Me
+## 💼 Professional Background
 
-- 💻 **Current Focus**: Advancing my skills in **Django** web development and **JavaScript** for full-stack capabilities
-- 🔧 **Expertise**: Python development with a passion for clean, efficient code
-- 🎨 **Creative Side**: Experienced with Adobe Creative Suite (Photoshop, Illustrator)
-- 🐧 **Environment**: Comfortable working in Linux environments and bash scripting
-- 🌱 **Always Learning**: Exploring modern web technologies and best practicesGuy
-<h1 align="center">Hi 👋, I'm Roger</h1>
-<h3 align="center">I enjoy learning new skills</h3>
+**Senior Customer Engineer @ Reltio** (Enterprise SaaS | Master Data Management)
+- 🏆 **FY24 Q1 MVP** | 113+ recognition awards in FY25
+- ⚡ **40% reduction** in ticket escalations through automation and optimization
+- 🔧 **Enterprise Platform Expertise**: Zendesk Administration, PagerDuty, Workato Integrations
+- � **Data & Analytics**: SQL, BI Dashboard development, AI/ML pilot programs
+- 🛠️ **System Architecture**: Linux administration, Docker, Azure cloud platforms
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukaiguy&label=Profile%20views&color=0e75b6&style=flat" alt="mukaiguy" /> </p>
+## 🎯 Current Focus
 
-- 🌱 I’m currently learning **Django** and **JavaScript**
+- 🌱 **Learning**: Django, FastAPI, and modern Python web frameworks
+- 💻 **Building**: Personal projects to showcase full-stack development skills
+- 🔍 **Exploring**: AI/ML applications in customer engineering and automation
+- 📈 **Growing**: From enterprise support engineering into software development
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Tools
 
-### Programming Languages
+### Enterprise Systems & Automation
+<p align="left">
+  <img src="https://assets.zdassets.com/theme_assets/2008340/036a09c5c2f2a8fd7a0e5ef3a41b5cb0b7e5b960.png" alt="Zendesk" width="50" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/609438?s=200&v=4" alt="PagerDuty" width="50" height="50"/>
+  <img src="https://workato.com/favicon.ico" alt="Workato" width="50" height="50"/>
+</p>
+
+### Programming & Scripting
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
 </p>
 
-### Web Development
+### Web Development (Learning)
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
 </p>
 
-### Tools & Environment
+### Cloud & Infrastructure
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
-### Creative Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="50" height="50"/>
-</p>
+---
+
+## 🏆 Technical Achievements & Certifications
+
+### 🚀 Key Accomplishments
+
+- **40% TTR Reduction**: Architected Zendesk optimizations including dynamic routing and omnichannel auto-assignment
+- **Enterprise Scale**: Resolved 500+ enterprise support tickets, including 300+ complex technical cases
+- **Automation Leadership**: Built and deployed system integrations using Workato for improved efficiency
+- **Knowledge Management**: Authored 70+ technical documentation pages and knowledge base articles
+- **Data Analytics**: Led BI dashboard development and AI/ML sentiment analysis pilot programs
+
+### 📜 Professional Certifications
+
+- **Zendesk Administrator** (2023-Present)
+- **Microsoft Azure Fundamentals** (2024)
+- **Incident Management Certified** (2024)
+- **CompTIA A+** (2020-Present)
 
 ---
 
@@ -87,15 +110,14 @@
   <a href="https://linkedin.com/in/rogermukai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:roger@mukaiguy.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <i>💼 Open to collaboration opportunities and interesting projects!</i><br>
-  <i>🌟 Always excited to connect with fellow developers and learn from the community</i>
+  <i>💼 Open to collaboration opportunities and software development roles!</i><br>
+  <i>🌟 Transitioning from Customer Engineering to Full-Stack Development</i><br>
+  <i>📍 Charlotte, NC (Remote Available)</i>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukaiguy&" alt="mukaiguy" /></p>
 
