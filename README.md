@@ -36,7 +36,7 @@
 ### Enterprise Systems & Automation
 <p align="left">
   <img src="https://d1eipm3vz40hy0.cloudfront.net/images/logos/zendesk-favicon.svg" alt="Zendesk" width="50" height="40"/>
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQF17AeecTI6KQ/company-logo_200_200/company-logo_200_200/0/1719855079399/pagerduty_logo?e=1761782400&v=beta&t=n3-uVuc9CCrX8cBaJNINsSUnU-PO7rJXFn87RgJ3dgY" alt="PagerDuty" width="50" height="50"/>
+  <img src="https://www.pagerduty.com/wp-content/themes/citizens-band/favicon/prod/icon.svg" alt="PagerDuty" width="50" height="50"/>
   <img src="https://workato.com/favicon.ico" alt="Workato" width="50" height="50"/>
 </p>
 
@@ -88,15 +88,7 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukaiguy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukaiguy&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukaiguy&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
+![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukaiguy&show_icons=true)
 ---
 
 ## 🚀 Featured Projects
