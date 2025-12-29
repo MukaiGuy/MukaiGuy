@@ -17,7 +17,7 @@
 
 ## 💼 Professional Background
 
-**Senior Customer Engineer @ Reltio** (Enterprise SaaS | Master Data Management)
+**Senior Customer Engineer** (Enterprise SaaS | Master Data Management)
 - 🏆 **FY24 Q1 MVP** | 113+ recognition awards in FY25
 - ⚡ **40% reduction** in ticket escalations through automation and optimization
 - 🔧 **Enterprise Platform Expertise**: Zendesk Administration, PagerDuty, Workato Integrations
